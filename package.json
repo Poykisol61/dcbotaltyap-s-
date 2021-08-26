@@ -1,0 +1,14 @@
+{
+  "name": "altyapi1",
+  "version": "0.0.1",
+  "description": "Bot altyapısı 1 Poyraz#8584 tarafından yapıldı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Poyraz#8584",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
